@@ -11,3 +11,8 @@ Autor: Venilton FalvoJr
 Linkedin: https://www.linkedin.com/in/falvojr/
 Github: https://github.com/falvojr
 Material de apoio: https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view
+
+## Curso: Introdução a criação de websites com HTML5 e CSS3
+Autor: Lucas Vilaboim
+Linkedin: https://www.linkedin.com/in/vilaboim/
+Github: https://github.com/vilaboim
