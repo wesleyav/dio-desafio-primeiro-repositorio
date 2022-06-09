@@ -16,3 +16,9 @@ Material de apoio: https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU6
 Autor: Lucas Vilaboim
 Linkedin: https://www.linkedin.com/in/vilaboim/
 Github: https://github.com/vilaboim
+
+## Curso: Posicionando elementos com Flexbox em CSS
+Autor: Karen Santos
+Linkedin: https://www.linkedin.com/in/karenasantos/
+Gitlab: https://gitlab.com/karensantos/project-flexbox-dio
+Material de apoio: https://drive.google.com/file/d/1cSBnkzCsCaqkbiUssLW7LCVCw5yErRCk/view?usp=sharing
