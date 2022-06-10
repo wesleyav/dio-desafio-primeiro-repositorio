@@ -22,3 +22,8 @@ Autor: Karen Santos
 Linkedin: https://www.linkedin.com/in/karenasantos/
 Gitlab: https://gitlab.com/karensantos/project-flexbox-dio
 Material de apoio: https://drive.google.com/file/d/1cSBnkzCsCaqkbiUssLW7LCVCw5yErRCk/view?usp=sharing
+
+## Desafio: Recriando a página inicial do Instagram
+Autor: Gabriela Pinheiro
+Linkedin: https://www.linkedin.com/in/gabrielapinheiro129/
+GitHub: https://github.com/SpruceGabriela/instagram-dio
